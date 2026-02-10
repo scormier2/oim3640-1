@@ -1,0 +1,4 @@
+PS C:\Users\scormier2>cd
+c: /.cd github\OIM3640
+c: /.cd github\OIM3640 
+print('hello, world!')
